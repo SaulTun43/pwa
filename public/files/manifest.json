@@ -2,23 +2,23 @@
   "name": "Smart House",
   "short_name": "Smart",
   "icons": [{
-    "src": "icons/sm.png",
+    "src": "icons/sm128.png",
       "sizes": "128x128",
       "type": "image/png"
     }, {
-      "src": "icons/sm.png",
+      "src": "icons/sm192.png",
       "sizes": "192x192",
       "type": "image/png"
     },{
-      "src": "icons/sm.png",
+      "src": "icons/sm256.png",
       "sizes": "256x256",
       "type": "image/png"
     },{
-      "src": "icons/sm.png",
+      "src": "icons/sm512.png",
       "sizes": "512x512",
       "type": "image/png"
     }, {
-      "src": "icons/sm.png",
+      "src": "icons/sm640.png",
       "sizes": "640x640",
       "type": "image/png"
     }],
